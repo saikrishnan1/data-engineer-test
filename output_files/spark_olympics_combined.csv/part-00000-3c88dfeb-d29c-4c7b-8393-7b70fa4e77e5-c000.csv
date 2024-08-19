@@ -1,0 +1,355 @@
+NOC,Gold,Silver,Bronze,Total,country
+USA,39,41,33,113,United States
+CHN,38,32,19,89,People's Republic of China
+JPN,27,14,17,58,Japan
+GBR,22,20,22,64,Great Britain
+ROC,20,28,23,71,ROC
+AUS,17,7,22,46,Australia
+NED,10,12,14,36,Netherlands
+FRA,10,12,11,33,France
+GER,10,11,16,37,Germany
+ITA,10,10,20,40,Italy
+CAN,7,7,10,24,Canada
+BRA,7,6,8,21,Brazil
+NZL,7,6,7,20,New Zealand
+CUB,7,3,5,15,Cuba
+HUN,6,7,7,20,Hungary
+KOR,6,4,10,20,Republic of Korea
+POL,4,5,5,14,Poland
+CZE,4,4,3,11,Czechia
+KEN,4,4,2,10,Kenya
+NOR,4,2,2,8,Norway
+JAM,4,1,4,9,Jamaica
+ESP,3,8,6,17,Spain
+SWE,3,6,0,9,Sweden
+SUI,3,4,6,13,Switzerland
+DEN,3,4,4,11,Denmark
+CRO,3,3,2,8,Croatia
+IRI,3,2,2,7,Islamic Republic of Iran
+SRB,3,1,5,9,Serbia
+BEL,3,1,3,7,Belgium
+BUL,3,1,2,6,Bulgaria
+SLO,3,1,1,5,Slovenia
+UZB,3,0,2,5,Uzbekistan
+GEO,2,5,1,8,Georgia
+TPE,2,4,6,12,Chinese Taipei
+TUR,2,2,9,13,Türkiye
+UGA,2,1,1,4,Uganda
+GRE,2,1,1,4,Greece
+ECU,2,1,0,3,Ecuador
+IRL,2,0,2,4,Ireland
+QAT,2,0,1,3,Qatar
+BAH,2,0,0,2,The Bahamas
+KOS,2,0,0,2,Kosovo
+UKR,1,6,12,19,Ukraine
+BLR,1,3,3,7,Belarus
+ROU,1,3,0,4,Romania
+VEN,1,3,0,4,Venezuela
+IND,1,2,4,7,India
+HKG,1,2,3,6,Hong Kong: China
+SVK,1,2,1,4,Slovakia
+PHI,1,2,1,4,Philippines
+RSA,1,2,0,3,South Africa
+AUT,1,1,5,7,Austria
+EGY,1,1,4,6,Egypt
+INA,1,1,3,5,Indonesia
+ETH,1,1,2,4,Ethiopia
+POR,1,1,2,4,Portugal
+TUN,1,1,0,2,Tunisia
+EST,1,0,1,2,Estonia
+FIJ,1,0,1,2,Fiji
+THA,1,0,1,2,Thailand
+LAT,1,0,1,2,Latvia
+BER,1,0,0,1,Bermuda
+PUR,1,0,0,1,Puerto Rico
+MAR,1,0,0,1,Morocco
+COL,0,4,1,5,Colombia
+AZE,0,3,4,7,Azerbaijan
+DOM,0,3,2,5,Dominican Republic
+ARM,0,2,2,4,Armenia
+KGZ,0,2,1,3,Kyrgyzstan
+MGL,0,1,3,4,Mongolia
+SMR,0,1,2,3,San Marino
+ARG,0,1,2,3,Argentina
+JOR,0,1,1,2,Jordan
+MAS,0,1,1,2,Malaysia
+NGR,0,1,1,2,Nigeria
+MKD,0,1,0,1,North Macedonia
+NAM,0,1,0,1,Namibia
+LTU,0,1,0,1,Lithuania
+TKM,0,1,0,1,Turkmenistan
+KSA,0,1,0,1,Kingdom of Saudi Arabia
+BRN,0,1,0,1,Bahrain
+KAZ,0,0,8,8,Kazakhstan
+MEX,0,0,4,4,Mexico
+FIN,0,0,2,2,Finland
+BUR,0,0,1,1,Burkina Faso
+SYR,0,0,1,1,Syrian Arab Republic
+GRN,0,0,1,1,Grenada
+MDA,0,0,1,1,Republic of Moldova
+CIV,0,0,1,1,Côte d'Ivoire
+BOT,0,0,1,1,Botswana
+GHA,0,0,1,1,Ghana
+KUW,0,0,1,1,Kuwait
+USA,40,44,42,126,United States
+CHN,40,27,24,91,People's Republic of China
+JPN,20,12,13,45,Japan
+AUS,18,19,16,53,Australia
+FRA,16,26,22,64,France
+NED,15,7,12,34,Netherlands
+GBR,14,22,29,65,Great Britain
+KOR,13,9,10,32,Republic of Korea
+ITA,12,13,15,40,Italy
+GER,12,13,8,33,Germany
+NZL,10,7,3,20,New Zealand
+CAN,9,7,11,27,Canada
+UZB,8,2,3,13,Uzbekistan
+HUN,6,7,6,19,Hungary
+ESP,5,4,9,18,Spain
+SWE,4,4,3,11,Sweden
+KEN,4,2,5,11,Kenya
+NOR,4,1,3,8,Norway
+IRL,4,0,3,7,Ireland
+BRA,3,7,10,20,Brazil
+IRI,3,6,3,12,Islamic Republic of Iran
+UKR,3,5,4,12,Ukraine
+ROU,3,4,2,9,Romania
+GEO,3,3,1,7,Georgia
+BEL,3,1,6,10,Belgium
+BUL,3,1,3,7,Bulgaria
+SRB,3,1,1,5,Serbia
+CZE,3,0,2,5,Czechia
+DEN,2,2,5,9,Denmark
+CRO,2,2,3,7,Croatia
+AZE,2,2,3,7,Azerbaijan
+CUB,2,1,6,9,Cuba
+BRN,2,1,1,4,Bahrain
+SLO,2,1,0,3,Slovenia
+TPE,2,0,5,7,Chinese Taipei
+AUT,2,0,3,5,Austria
+PHI,2,0,2,4,Philippines
+HKG,2,0,2,4,Hong Kong: China
+INA,2,0,1,3,Indonesia
+ALG,2,0,1,3,Algeria
+ISR,1,5,1,7,Israel
+POL,1,4,5,10,Poland
+KAZ,1,3,3,7,Kazakhstan
+JAM,1,3,2,6,Jamaica
+THA,1,3,2,6,Thailand
+RSA,1,3,2,6,South Africa
+AIN,1,3,1,5,Unknown
+ETH,1,3,0,4,Ethiopia
+SUI,1,2,5,8,Switzerland
+ECU,1,2,2,5,Ecuador
+POR,1,2,1,4,Portugal
+GRE,1,1,6,8,Greece
+ARG,1,1,1,3,Argentina
+EGY,1,1,1,3,Egypt
+TUN,1,1,1,3,Tunisia
+LCA,1,1,0,2,Saint Lucia
+CHI,1,1,0,2,Chile
+UGA,1,1,0,2,Uganda
+BOT,1,1,0,2,Botswana
+DOM,1,0,1,2,Dominican Republic
+MAR,1,0,1,2,Morocco
+PAK,1,0,0,1,Pakistan
+DMA,1,0,0,1,Dominica
+TUR,0,3,5,8,Türkiye
+MEX,0,3,2,5,Mexico
+COL,0,3,1,4,Colombia
+ARM,0,3,1,4,Armenia
+PRK,0,2,4,6,Democratic People's Republic of Korea
+KGZ,0,2,4,6,Kyrgyzstan
+LTU,0,2,2,4,Lithuania
+IND,0,1,5,6,India
+MDA,0,1,3,4,Republic of Moldova
+KOS,0,1,1,2,Kosovo
+PAN,0,1,0,1,Panama
+JOR,0,1,0,1,Jordan
+CYP,0,1,0,1,Cyprus
+MGL,0,1,0,1,Mongolia
+FIJ,0,1,0,1,Fiji
+TJK,0,0,3,3,Tajikistan
+ALB,0,0,2,2,Albania
+GRN,0,0,2,2,Grenada
+PUR,0,0,2,2,Puerto Rico
+MAS,0,0,2,2,Malaysia
+CPV,0,0,1,1,Cabo Verde
+QAT,0,0,1,1,Qatar
+ZAM,0,0,1,1,Zambia
+SIN,0,0,1,1,Unknown
+CIV,0,0,1,1,Côte d'Ivoire
+ROT,0,0,1,1,Unknown
+PER,0,0,1,1,Peru
+SVK,0,0,1,1,Slovakia
+USA,48,26,30,104,United States
+CHN,39,31,22,92,People's Republic of China
+GBR,29,18,18,65,Great Britain
+RUS,18,21,26,65,Russian Federation
+KOR,13,9,9,31,Republic of Korea
+GER,11,20,13,44,Germany
+FRA,11,11,13,35,France
+AUS,8,15,12,35,Australia
+ITA,8,9,11,28,Italy
+HUN,8,4,6,18,Hungary
+JPN,7,14,17,38,Japan
+IRI,7,5,1,13,Islamic Republic of Iran
+NED,6,6,8,20,Netherlands
+NZL,6,2,5,13,New Zealand
+UKR,5,4,10,19,Ukraine
+CUB,5,3,7,15,Cuba
+ESP,4,10,6,20,Spain
+JAM,4,5,4,13,Jamaica
+CZE,4,4,3,11,Czechia
+RSA,4,1,1,6,South Africa
+PRK,4,0,3,7,Democratic People's Republic of Korea
+BRA,3,5,9,17,Brazil
+KAZ,3,2,6,11,Kazakhstan
+POL,3,2,6,11,Poland
+ETH,3,2,3,8,Ethiopia
+CRO,3,1,2,6,Croatia
+CAN,2,6,10,18,Canada
+BLR,2,5,3,10,Belarus
+KEN,2,4,7,13,Kenya
+DEN,2,4,3,9,Denmark
+ROU,2,4,1,7,Romania
+AZE,2,2,5,9,Azerbaijan
+SUI,2,2,0,4,Switzerland
+NOR,2,1,1,4,Norway
+LTU,2,0,3,5,Lithuania
+TUN,2,0,1,3,Tunisia
+SWE,1,4,3,8,Sweden
+COL,1,3,5,9,Colombia
+MEX,1,3,4,8,Mexico
+GEO,1,2,3,6,Georgia
+IRL,1,1,4,6,Ireland
+ARG,1,1,2,4,Argentina
+SLO,1,1,2,4,Slovenia
+TTO,1,1,2,4,Trinidad and Tobago
+SRB,1,1,2,4,Serbia
+TUR,1,1,1,3,Türkiye
+DOM,1,1,0,2,Dominican Republic
+TPE,1,0,1,2,Chinese Taipei
+LAT,1,0,1,2,Latvia
+BAH,1,0,0,1,The Bahamas
+ALG,1,0,0,1,Algeria
+GRN,1,0,0,1,Grenada
+VEN,1,0,0,1,Venezuela
+BRN,1,0,0,1,Bahrain
+UGA,1,0,0,1,Uganda
+EGY,0,3,1,4,Egypt
+IND,0,2,4,6,India
+MGL,0,2,3,5,Mongolia
+THA,0,2,2,4,Thailand
+INA,0,2,1,3,Indonesia
+BUL,0,2,1,3,Bulgaria
+FIN,0,2,1,3,Finland
+SVK,0,1,3,4,Slovakia
+BEL,0,1,2,3,Belgium
+MAS,0,1,1,2,Malaysia
+QAT,0,1,1,2,Qatar
+ARM,0,1,1,2,Armenia
+EST,0,1,1,2,Estonia
+PUR,0,1,1,2,Puerto Rico
+GUA,0,1,0,1,Guatemala
+CYP,0,1,0,1,Cyprus
+BOT,0,1,0,1,Botswana
+POR,0,1,0,1,Portugal
+MNE,0,1,0,1,Montenegro
+GAB,0,1,0,1,Gabon
+UZB,0,0,3,3,Uzbekistan
+SIN,0,0,2,2,Unknown
+GRE,0,0,2,2,Greece
+VIE,0,0,1,1,Vietnam
+MAR,0,0,1,1,Morocco
+TJK,0,0,1,1,Tajikistan
+KUW,0,0,1,1,Kuwait
+HKG,0,0,1,1,Hong Kong: China
+CMR,0,0,1,1,Cameroon
+KSA,0,0,1,1,Kingdom of Saudi Arabia
+AFG,0,0,1,1,Afghanistan
+USA,46,37,38,121,United States
+GBR,27,23,17,67,Great Britain
+CHN,26,18,26,70,People's Republic of China
+RUS,19,17,20,56,Russian Federation
+GER,17,10,15,42,Germany
+JPN,12,8,21,41,Japan
+FRA,10,18,14,42,France
+KOR,9,3,9,21,Republic of Korea
+ITA,8,12,8,28,Italy
+AUS,8,11,10,29,Australia
+NED,8,7,4,19,Netherlands
+HUN,8,3,4,15,Hungary
+BRA,7,6,6,19,Brazil
+ESP,7,4,6,17,Spain
+KEN,6,6,1,13,Kenya
+JAM,6,3,2,11,Jamaica
+CRO,5,3,2,10,Croatia
+CUB,5,2,4,11,Cuba
+NZL,4,9,5,18,New Zealand
+CAN,4,3,15,22,Canada
+UZB,4,2,7,13,Uzbekistan
+COL,3,2,3,8,Colombia
+SUI,3,2,2,7,Switzerland
+IRI,3,1,4,8,Islamic Republic of Iran
+GRE,3,1,2,6,Greece
+ARG,3,1,0,4,Argentina
+DEN,2,6,7,15,Denmark
+SWE,2,6,3,11,Sweden
+RSA,2,6,2,10,South Africa
+KAZ,2,5,10,17,Kazakhstan
+UKR,2,5,4,11,Ukraine
+SRB,2,4,2,8,Serbia
+POL,2,3,6,11,Poland
+PRK,2,3,2,7,Democratic People's Republic of Korea
+BEL,2,2,2,6,Belgium
+THA,2,2,2,6,Thailand
+SVK,2,2,0,4,Slovakia
+GEO,2,1,4,7,Georgia
+AZE,1,7,10,18,Azerbaijan
+BLR,1,4,4,9,Belarus
+TUR,1,3,4,8,Türkiye
+ARM,1,3,0,4,Armenia
+CZE,1,2,7,10,Czechia
+ETH,1,2,5,8,Ethiopia
+SLO,1,2,1,4,Slovenia
+INA,1,2,0,3,Indonesia
+ROU,1,1,2,4,Romania
+BRN,1,1,0,2,Bahrain
+VIE,1,1,0,2,Vietnam
+TPE,1,0,2,3,Chinese Taipei
+IOA,1,0,1,2,Independent Olympic Athletes
+BAH,1,0,1,2,The Bahamas
+CIV,1,0,1,2,Côte d'Ivoire
+KOS,1,0,0,1,Kosovo
+TJK,1,0,0,1,Tajikistan
+FIJ,1,0,0,1,Fiji
+JOR,1,0,0,1,Jordan
+PUR,1,0,0,1,Puerto Rico
+SIN,1,0,0,1,Unknown
+MAS,0,4,1,5,Malaysia
+MEX,0,3,2,5,Mexico
+VEN,0,2,1,3,Venezuela
+ALG,0,2,0,2,Algeria
+IRL,0,2,0,2,Ireland
+LTU,0,1,3,4,Lithuania
+BUL,0,1,2,3,Bulgaria
+MGL,0,1,1,2,Mongolia
+IND,0,1,1,2,India
+NIG,0,1,0,1,Niger
+PHI,0,1,0,1,Philippines
+QAT,0,1,0,1,Qatar
+BDI,0,1,0,1,Burundi
+GRN,0,1,0,1,Grenada
+NOR,0,0,4,4,Norway
+EGY,0,0,3,3,Egypt
+TUN,0,0,3,3,Tunisia
+NGR,0,0,1,1,Nigeria
+DOM,0,0,1,1,Dominican Republic
+EST,0,0,1,1,Estonia
+TTO,0,0,1,1,Trinidad and Tobago
+UAE,0,0,1,1,United Arab Emirates
+AUT,0,0,1,1,Austria
+POR,0,0,1,1,Portugal
+FIN,0,0,1,1,Finland
+MAR,0,0,1,1,Morocco

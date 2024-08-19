@@ -1,0 +1,71 @@
+NOC,Gold,Silver,Bronze,Total,country
+NOR,13,5,7,25,Norway
+GER,12,16,8,36,Germany
+USA,10,13,11,34,United States
+CAN,7,3,7,17,Canada
+RUS,5,4,4,13,Russian Federation
+FRA,4,5,2,11,France
+ITA,4,4,5,13,Italy
+FIN,4,2,1,7,Finland
+NED,3,5,0,8,Netherlands
+AUT,3,4,10,17,Austria
+SUI,3,2,6,11,Switzerland
+CRO,3,1,0,4,Croatia
+CHN,2,2,4,8,People's Republic of China
+KOR,2,2,0,4,Republic of Korea
+AUS,2,0,0,2,Australia
+CZE,1,2,0,3,Czechia
+EST,1,1,1,3,Estonia
+GBR,1,0,1,2,Great Britain
+SWE,0,2,5,7,Sweden
+BUL,0,1,2,3,Bulgaria
+POL,0,1,1,2,Poland
+JPN,0,1,1,2,Japan
+BLR,0,0,1,1,Belarus
+SLO,0,0,1,1,Slovenia
+GER,12,9,8,29,Germany
+NOR,10,10,5,25,Norway
+RUS,9,6,3,18,Russian Federation
+CAN,6,5,4,15,Canada
+USA,6,3,4,13,United States
+NED,5,4,2,11,Netherlands
+JPN,5,1,4,10,Japan
+AUT,3,5,9,17,Austria
+KOR,3,1,2,6,Republic of Korea
+ITA,2,6,2,10,Italy
+FIN,2,4,6,12,Finland
+SUI,2,2,3,7,Switzerland
+FRA,2,1,5,8,France
+CZE,1,1,1,3,Czechia
+BUL,1,0,0,1,Bulgaria
+CHN,0,6,2,8,People's Republic of China
+SWE,0,2,1,3,Sweden
+DEN,0,1,0,1,Denmark
+UKR,0,1,0,1,Ukraine
+KAZ,0,0,2,2,Kazakhstan
+BLR,0,0,2,2,Belarus
+GBR,0,0,1,1,Great Britain
+BEL,0,0,1,1,Belgium
+AUS,0,0,1,1,Australia
+RUS,11,8,4,23,Russian Federation
+NOR,10,11,5,26,Norway
+GER,9,7,8,24,Germany
+ITA,7,5,8,20,Italy
+USA,6,5,2,13,United States
+KOR,4,1,1,6,Republic of Korea
+CAN,3,6,4,13,Canada
+SUI,3,4,2,9,Switzerland
+AUT,2,3,4,9,Austria
+SWE,2,1,0,3,Sweden
+JPN,1,2,2,5,Japan
+KAZ,1,2,0,3,Kazakhstan
+UKR,1,0,1,2,Ukraine
+UZB,1,0,0,1,Uzbekistan
+BLR,0,2,0,2,Belarus
+FIN,0,1,5,6,Finland
+FRA,0,1,4,5,France
+NED,0,1,3,4,Netherlands
+CHN,0,1,2,3,People's Republic of China
+SLO,0,0,3,3,Slovenia
+GBR,0,0,2,2,Great Britain
+AUS,0,0,1,1,Australia
