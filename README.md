@@ -25,15 +25,16 @@ This project is a data processing pipeline that combines multiple datasets relat
    ```bash
    git clone <repository-url>
    cd <repository-directory>
-2.
+2. Install requirements.txt file through pip
 ```bash
 pip install -r requirements.txt
 ```
-3.Run jupyter notebook under 'notebooks/holman_de_test.ipynb'
-4. For spark cd into spark_implementation/etl folder and enter 
+3. Run jupyter notebook under 'notebooks/holman_de_test.ipynb'
+
+4. For spark, 'cd' into 'spark_implementation/etl' folder and enter 
 ```bash
 spark-submit etl_jobs.py
 ```
 
-Note on Spark Performance:
+### Note on Spark Performance:
 Running the pipeline with PySpark is more efficient for large datasets because Spark distributes the processing across multiple nodes (in a cluster setup) or cores (in a local setup). This can significantly reduce execution time compared to running the same pipeline with Pandas, especially when dealing with gigabytes or terabytes of data. In a local setup, the performance gain might be less noticeable, but the ability to scale seamlessly is a major advantage when using Spark.
